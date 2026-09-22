@@ -1,10 +1,16 @@
 # Web Form
 
-A practical web-form project demonstrating form structure, user input handling, validation, and responsive web development fundamentals.
+A small frontend practice project focused on building and validating web forms with standard web technologies.
 
 ## 🎯 Purpose
 
-Built as a hands-on project for practicing frontend development and form-based user interaction.
+This project was created as hands-on practice for:
+
+- HTML form structure
+- User input handling
+- Form validation
+- Basic JavaScript interaction
+- Responsive frontend development
 
 ## 🛠️ Technology
 
@@ -12,6 +18,23 @@ Built as a hands-on project for practicing frontend development and form-based u
 - CSS3
 - JavaScript
 
-## 📌 Status
+## 📁 Repository Structure
 
-Learning / practice project.
+The repository currently contains the project documentation:
+
+```text
+Web-form/
+└── README.md
+```
+
+No additional production application structure is claimed at this stage.
+
+## 🚧 Status
+
+**Learning / practice project.**
+
+This repository represents an early frontend-development exercise rather than a production application.
+
+## 👨‍💻 Developer
+
+**Isaac Asumadu Agyei**
